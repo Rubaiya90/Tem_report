@@ -1,6 +1,5 @@
 #include <iostream>
-#include <cstdlib>
-#include <ctime>
+
 using namespace std;
 
 void insertionSort(int arr[], int n, int &comparisons, int &swaps) {
@@ -50,4 +49,5 @@ int main() {
 
     return 0;
 }
+
 
